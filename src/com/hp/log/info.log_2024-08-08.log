@@ -1,0 +1,20 @@
+2024-08-08 09:45:55 上午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:26) ]
+INFO:当前刷新的token是679b4bf12eb039e09b09b550d4958257
+2024-08-08 09:53:22 上午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:25) ]
+INFO:当前刷新的token是679b4bf12eb039e09b09b550d4958257
+2024-08-08 09:53:24 上午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.queryUserStatus(HRService.java:118) ]
+INFO:企业账号已关闭
+2024-08-08 14:31:33 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:25) ]
+INFO:当前刷新的token是ab97b7ec33753f3e9fcc6c18397a17aa
+2024-08-08 14:33:08 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:25) ]
+INFO:当前刷新的token是ab97b7ec33753f3e9fcc6c18397a17aa
+2024-08-08 14:33:09 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.stickUser(HRService.java:130) ]
+INFO:com.aliyun.dingtalkcontact_1_0.models.SignOutResponseBody@1623b78d
+2024-08-08 14:36:13 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:25) ]
+INFO:当前刷新的token是ab97b7ec33753f3e9fcc6c18397a17aa
+2024-08-08 14:36:14 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.stickUser(HRService.java:130) ]
+INFO:true
+2024-08-08 14:37:45 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.<init>(HRService.java:25) ]
+INFO:当前刷新的token是ab97b7ec33753f3e9fcc6c18397a17aa
+2024-08-08 14:37:46 下午 [Thread: main][ Class:com.aliyun.sample.HRService >> Method: com.aliyun.sample.HRService.stickUser(HRService.java:131) ]
+INFO:踢出成功
